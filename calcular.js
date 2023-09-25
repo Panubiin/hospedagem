@@ -2,7 +2,7 @@ const { Client, GatewayIntentBits, REST } = require('discord.js');
 const { Routes } = require('discord-api-types/v9');
 const math = require('mathjs');
 
-const TOKEN = 'MTE1MzY4OTQ0NDAzNDAzOTg0OA.Gb25KJ.8nk6F-eVRiFoBd1Brr7QcyjgDKLL9aQWpKxZOk';
+const TOKEN = 'MTE1MzY4OTQ0NDAzNDAzOTg0OA.GCvdWq.bZNXFgDI7xZkRYnjF6PgDMXDke_TO0LALsFSss';
 const PREFIX = '!';
 
 const CLIENT_ID = '1153689444034039848'; // Adicione o ID do seu bot aqui
